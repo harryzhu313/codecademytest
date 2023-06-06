@@ -1,0 +1,39 @@
+
+body {
+    background-color: #141c3a;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+#view-button {
+    background-color: #6df0c2;;
+    border: none;
+}
+
+#close-button {
+    background-color: #fd4d3f;
+    border: none;
+    display: none;
+}
+
+#codey {
+    display: none;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+    margin-top: 50px;
+}
